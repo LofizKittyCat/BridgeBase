@@ -9,4 +9,9 @@ pluginManagement {
     }
 }
 
-rootProject.name = "FabricKotlinBase"
+rootProject.name = "BridgeBase"
+
+include(":Bridge")
+include(":Client")
+include(":v1_8_9")
+include(":v1_21_4")
