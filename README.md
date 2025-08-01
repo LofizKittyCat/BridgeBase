@@ -26,3 +26,5 @@ class TestImpl : ITest {
 ```
 
 Or implement it in a mixin if you need to (KeyBinding bridge etc)
+
+# All Credit Goes To [Refactoring](https://github.com/refactorinqq) For The Original [Bridge Base](https://github.com/refactorinqq/BridgeBase)
