@@ -27,4 +27,4 @@ class TestImpl : ITest {
 
 Or implement it in a mixin if you need to (KeyBinding bridge etc)
 
-# All Credit Goes To [Refactoring](https://github.com/refactorinqq) For The Original [Bridge Base](https://github.com/refactorinqq/BridgeBase)
+# All Credit Goes To [Refactoring](https://github.com/refactorinqq) (Now [Lunasa](https://github.com/Luna0x01)) For The Original [Bridge Base](https://github.com/refactorinqq/BridgeBase)
