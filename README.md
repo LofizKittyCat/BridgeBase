@@ -2,7 +2,7 @@
 A Legacy Fabric Mod Base Using The Kotlin DSL
 
 # Credit
-https://github.com/refactorinqq/BridgeBase
+[Lunasa's Bridge Base](https://github.com/refactorinqq/BridgeBase)
 
 # How It Works
 
